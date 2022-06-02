@@ -1,0 +1,13 @@
+.topLeft {
+    @apply h-full text-slate-50 flex flex-col justify-center items-center;
+}
+
+.title {
+    @apply font-semibold py-1 tracking-wider text-6xl;
+}
+
+.subtitle {
+    @apply text-2xl py-1 tracking-wide;
+}
+
+.description {}

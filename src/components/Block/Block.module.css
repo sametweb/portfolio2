@@ -1,0 +1,7 @@
+.block {
+    @apply border-l border-b p-3 border-slate-700;
+}
+
+.blockDragging {
+    @apply border-indigo-800 border-dashed;
+}

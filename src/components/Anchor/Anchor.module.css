@@ -1,0 +1,7 @@
+.anchor {
+    @apply w-6 h-6 -translate-x-3 -translate-y-3 absolute rounded-full bg-white cursor-move bg-gradient-to-br from-slate-600 to-slate-800
+}
+
+.anchorDragging {
+    @apply from-indigo-600 to-indigo-800;
+}
