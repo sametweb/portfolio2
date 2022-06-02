@@ -1,4 +1,2 @@
-import Anchor from "./components/Anchor";
-import Block from "./components/Block";
-
-export { Anchor, Block };
+export { default as Anchor } from "./Anchor";
+export { default as Block } from "./Block";

@@ -1,6 +1,4 @@
-import BottomLeft from "./BottomLeft";
-import BottomRight from "./BottomRight";
-import TopLeft from "./TopLeft";
-import TopRight from "./TopRight";
-
-export { BottomLeft, BottomRight, TopLeft, TopRight };
+export { default as BottomLeft } from "./BottomLeft";
+export { default as BottomRight } from "./BottomRight";
+export { default as TopLeft } from "./TopLeft";
+export { default as TopRight } from "./TopRight";
